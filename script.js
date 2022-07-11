@@ -1,4 +1,3 @@
-document.getElementById("downloadButtons").style.display = "none";
 
 $("#fetchButton").click(function () {
   $("#downloadButtons").fadeIn(250);
@@ -30,3 +29,6 @@ function fetchThumbnail(videoURL) {
   document.getElementById("midres").href = midres;
   document.getElementById("lowres").href = lowres;
 }
+
+
+document.getElementById("downloadButtons").style.display = "none";
