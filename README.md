@@ -5,6 +5,9 @@
 
 Web-app to fetch YouTube thumbnails without any API.
 
+<img width=720px src="https://github.com/priyam-raj/thumb-fetch/blob/main/assets/screenshot.png">
+
+
 
 &nbsp;&nbsp;
 
