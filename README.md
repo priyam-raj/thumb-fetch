@@ -1,3 +1,3 @@
-# YouTube Thumbnails / thumb-fetch
+# Thumb Fetch
 
 Web-app to fetch YouTube thumbnails without any API.
