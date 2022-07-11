@@ -1,0 +1,20 @@
+.main-body {
+  padding-top: 200px;
+}
+
+.red-colored {
+  color: #ff0000;
+}
+
+.fetch-area {
+  padding: 30px;
+}
+
+.img-responsive {
+  width: 95%;
+  height: auto;
+}
+
+.black-colored {
+  color: #24292f;
+}
